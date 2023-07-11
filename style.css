@@ -218,6 +218,7 @@ font-weight: 800;
     align-items: center;
     justify-content: center;
     background-position: center;
+    background-size: contain;
 }
 
 .hading-tag{
